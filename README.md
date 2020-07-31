@@ -1,2 +1,2 @@
-# hello-world
-sanjana's hello world repository
+# Algorithms
+Search/Sort algorithms + Queue Algorithm
